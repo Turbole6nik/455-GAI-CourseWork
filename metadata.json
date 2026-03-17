@@ -1,0 +1,5 @@
+{
+  "name": "Bank Statement OCR",
+  "description": "Extract transactions from PDF or image bank statements into CSV format using Gemini AI.",
+  "requestFramePermissions": []
+}
